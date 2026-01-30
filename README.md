@@ -11,7 +11,7 @@ New games will be added over time as the series continues.
 ##  Games So Far
 
 * **Wordle Clone** — JavaScript and React
-  👉 [https://github.com/ZLouisMiguel/wordle-clone](https://github.com/ZLouisMiguel/wordle-clone)
+  👉 [here](https://github.com/ZLouisMiguel/wordle-clone)
 
 *(More games coming soon — this list will grow with every new project.)*
 
