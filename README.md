@@ -8,7 +8,7 @@
 **Game Jam Series** is a personal learning project where I design and build **playable games from scratch**, focusing on fundamentals, clean logic, and hands-on problem solving.
 
 This repository acts as the **central hub** for all games in the series.  
-Each game lives in its own repository and explores different mechanics, ideas, and technical challenges—primarily using **JavaScript, TypeScript, and browser APIs**.
+Each game lives in its own repository and explores different mechanics, ideas, and technical challenges primarily using **JavaScript, TypeScript, and browser APIs**.
 
 New games are added over time as the series grows.
 
