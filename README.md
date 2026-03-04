@@ -1,7 +1,7 @@
 # Game Jam Series
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Projects-3178C6?logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Development-From_Scratch-111827)
 ![Vanilla](https://img.shields.io/badge/Vanilla_JS-No_Frameworks-4CAF50)
 
@@ -24,7 +24,7 @@ New games are added over time as the series grows.
 
 ---
 
-##  Games So Far
+## Games So Far
 
 ### Wordle Clone
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?logo=javascript&logoColor=000)
@@ -38,7 +38,7 @@ A browser-based Wordle-style game focusing on game state, validation, and UI fee
 
 ---
 
-###  Block Blast Clone
+### Block Blast Clone
 ![JavaScript](https://img.shields.io/badge/JavaScript-Canvas_Game-F7DF1E?logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-UI-1572B6?logo=css3&logoColor=fff)
@@ -48,6 +48,17 @@ A grid-based puzzle game inspired by Block Blast, built with **HTML Canvas** and
 - **Tech:** JavaScript, HTML5 Canvas, CSS
 - **Source Code:** https://github.com/ZLouisMiguel/block-blast
 - **Live Demo:** https://bblastc.netlify.app/
+
+---
+
+### Snake
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-Desktop-007396?logo=java&logoColor=white)
+
+The classic Snake game built as a desktop application in Java. First entry in the series outside the browser, exploring multi-panel architecture, game loop timers, and state management with Java Swing.
+
+- **Tech:** Java, Java Swing
+- **Source Code:** https://github.com/ZLouisMiguel/snake-java
 
 ---
 
@@ -62,4 +73,3 @@ Each new entry will introduce new mechanics, tools, or technical challenges.
 
 This series prioritizes **learning by building**.  
 Projects may vary in scope and polish, but each one represents a step forward in understanding game development and interactive systems.
-
