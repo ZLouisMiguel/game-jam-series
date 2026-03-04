@@ -1,26 +1,23 @@
-# Game Jam Series
+# Game Jam Series 🎮
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Projects-3178C6?logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Development-From_Scratch-111827)
 ![Vanilla](https://img.shields.io/badge/Vanilla_JS-No_Frameworks-4CAF50)
 
-**Game Jam Series** is a personal learning project where I design and build **playable games from scratch**, focusing on fundamentals, clean logic, and hands-on problem solving.
+I build games from scratch just for the fun of it. No game engines, no shortcuts, just me figuring out how things work by actually building them.
 
-This repository acts as the **central hub** for all games in the series.  
-Each game lives in its own repository and explores different mechanics, ideas, and technical challenges primarily using **JavaScript, TypeScript, and browser APIs**.
-
-New games are added over time as the series grows.
+This is the hub for everything in the series. Each game lives in its own repo and taught me something new. Some are polished, some are rough, all of them were worth building.
 
 ---
 
-## Goals of the Series
+## Why I'm doing this
 
-- Strengthen core **game logic and state management**
-- Practice **canvas rendering**, UI feedback, and interaction
-- Explore different genres and mechanics
-- Improve code structure, readability, and reusability
-- Build a public record of consistent learning
+- Get better at game logic and state management
+- Actually understand how rendering and input works under the hood
+- Try different genres and see what breaks 😄
+- Write cleaner code with each new project
+- Have something to show for the time I spend coding
 
 ---
 
@@ -30,7 +27,7 @@ New games are added over time as the series grows.
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-UI-61DAFB?logo=react&logoColor=000)
 
-A browser-based Wordle-style game focusing on game state, validation, and UI feedback.
+My take on Wordle. Good starting point for thinking about game state and giving players clear feedback.
 
 - **Tech:** JavaScript, React
 - **Source Code:** https://github.com/ZLouisMiguel/wordle-clone
@@ -43,7 +40,7 @@ A browser-based Wordle-style game focusing on game state, validation, and UI fee
 ![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-UI-1572B6?logo=css3&logoColor=fff)
 
-A grid-based puzzle game inspired by Block Blast, built with **HTML Canvas** and vanilla JavaScript.
+Grid-based puzzle game built on HTML Canvas. This one taught me a lot about how canvas rendering actually works.
 
 - **Tech:** JavaScript, HTML5 Canvas, CSS
 - **Source Code:** https://github.com/ZLouisMiguel/block-blast
@@ -55,21 +52,17 @@ A grid-based puzzle game inspired by Block Blast, built with **HTML Canvas** and
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-Desktop-007396?logo=java&logoColor=white)
 
-The classic Snake game built as a desktop application in Java. First entry in the series outside the browser, exploring multi-panel architecture, game loop timers, and state management with Java Swing.
+Classic Snake as a desktop app, my first time stepping outside the browser. Learned a lot about multi-panel architecture and game loops in Java Swing.
 
 - **Tech:** Java, Java Swing
 - **Source Code:** https://github.com/ZLouisMiguel/snake-java
 
 ---
 
-## Upcoming Games
+## What's next
 
-More games are planned and will be added as the series continues.  
-Each new entry will introduce new mechanics, tools, or technical challenges.
+More games are coming. Each one will push into something I haven't tried yet, different mechanics, different tools, different problems to solve.
 
 ---
 
-## Notes
-
-This series prioritizes **learning by building**.  
-Projects may vary in scope and polish, but each one represents a step forward in understanding game development and interactive systems.
+> Projects may vary in polish but every single one moved me forward. That's the whole point. 🚀
