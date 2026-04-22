@@ -59,6 +59,17 @@ Classic Snake as a desktop app, my first time stepping outside the browser. Lear
 
 ---
 
+
+### Ultimate Tic-Tac-Toe
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)
+![Vanilla](https://img.shields.io/badge/Vanilla_JS-No_Frameworks-4CAF50)
+
+A strategic 9×9 version of Tic-Tac-Toe based on Ben Orlin's math games. The real challenge here was managing nested state and enforcing move restrictions based on the opponent's last play.
+
+- **Tech:** JavaScript, HTML5, CSS
+- **Source Code:** https://github.com/ZLouisMiguel/ult
+- **Live Demo:** https://z-ult-xo.netlify.app/
+
 ## What's next
 
 More games are coming. Each one will push into something I haven't tried yet, different mechanics, different tools, different problems to solve.
